@@ -30,3 +30,5 @@
     - Documentation Review
   - Micromanager Concept
     - Second agent that constantly keeps an eye on activity? Corrective feedback provided by GitHub comments?
+    - Gemini million token based? Provide zip of main branch with diff of feature branch along with AC/Architecture for review?
+      - Two zip files has confused it before, so one zip as before and a diff for after will likely work better.
