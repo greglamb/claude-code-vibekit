@@ -1,6 +1,6 @@
 # 📂 claude-code-vibekit
 
-Ongoing experiments to find a reliable workflow for vibe coding with Claude code (https://github.com/anthropics/claude-code). Requires Max Plan (https://www.anthropic.com/news/max-plan). Here be dragons.
+Ongoing experiments to find a reliable workflow for vibe coding with Claude Code (https://github.com/anthropics/claude-code). Requires Max Plan (https://www.anthropic.com/news/max-plan). Here be dragons.
 
 ## ⚠️ Disclaimer
 
